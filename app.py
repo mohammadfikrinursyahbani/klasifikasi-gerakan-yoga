@@ -52,7 +52,6 @@ else:
         txt = st.text_area('Manfaat Gerakan', '''
             Gerakan warior 2 atau virabhadasarana II memiliki kegunaan untuk memperkuat otot kaki, perut, lengan dan dapat memperkuat daya tahan serta meningkatkan energi yang ada dalam tubuh
             ''')
-        txt = st.text('')
     else:
         txt = st.text_area('Manfaat Gerakan', '''
             Gerakan downdog atau downward dog ini memiliki kegunaan yang dapat membantu tulang lengan yang biasanya rentan terkena penyakit tulang yaitu osteophorosist
