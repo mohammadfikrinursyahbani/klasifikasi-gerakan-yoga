@@ -15,6 +15,7 @@ def load_model():
 model = load_model()
 
 st.title("Klasifikasi Gerakan Yoga")
+st.title("Klasifikasi Gerakan")
 
 file = st.file_uploader("Upload Gambar", type=["jpg", "jpeg", "png"])
 
